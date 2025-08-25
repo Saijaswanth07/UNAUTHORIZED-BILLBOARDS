@@ -150,15 +150,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Team
 
-- **Project Lead**: [Your Name]
-- **Backend Developer**: [Name]
-- **Frontend Developer**: [Name]
-- **AI/ML Engineer**: [Name]
-- **UI/UX Designer**: [Name]
+- **Project Lead**: [Sai Jaswanth.K]
+- **Backend Developer**: [Sai Jaswanth.K]
+- **Frontend Developer**: [Sai Jaswanth.K]
+- **AI/ML Engineer**: [Sai Jaswanth.K]
+- **UI/UX Designer**: [Sai Jaswanth.K]
 
 ## 📧 Contact
 
-For inquiries, please contact [your-email@example.com](mailto:your-email@example.com)
+For inquiries, please contact [saijaswanthkommineni@gmail.com]
 
 ---
 
